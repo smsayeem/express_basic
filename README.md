@@ -26,10 +26,12 @@ app.listen(5000);
 npm init -y
 
 npm install express
+
 //dev dependecy only for dev not for production
-npm instal -D nodemon //dev dependecy only for dev not for production
+npm instal -D nodemo
 
 npm install momnet
 
 // to generate random universal id
+
 npm install uuid
